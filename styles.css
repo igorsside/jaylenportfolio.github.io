@@ -1,0 +1,63 @@
+main {
+  background-color: #F0EAD6;
+}
+
+h1{
+    text-align: center;
+}
+h4{
+    text-align: center;
+    font-family: "Apple Chancery", cursive;
+}
+
+h5 {
+  font-family: "Bookman", "URW Bookman L", serif;
+}
+
+
+.text-body-secondary {
+  font-family: "Bookman", "URW Bookman L", serif;
+}
+
+
+p {
+  font-family: Georgia, serif;
+}
+
+.card-title {
+  text-align: center;
+}
+.title-container {
+  text-align: center;
+}
+
+.title-container h1 {
+  font-family: "Apple Chancery", cursive;
+}
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+.image-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.5); /* Adjust the alpha value for transparency */
+}
+
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+
+
+
